@@ -97,8 +97,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
- https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hafeez220250" /></a></p><br><br>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hafeez220250"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hafeez220250" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafeezmangalore&show_icons=true&locale=en&layout=compact" alt="hafeezmangalore" /></p>
 
