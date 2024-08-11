@@ -4,13 +4,14 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafeezmangalore&label=Profile%20views&color=0e75b6&style=flat" alt="hafeezmangalore" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafeezmangalore" alt="hafeezmangalore" /></a> </p>
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">✨ Creating bugs since 2020: Ever since I started coding, I've been on a journey of trial and error, learning from every mistake and improving my skills along the way.<br><br>📚 I'm currently learning Full Stack Development: Diving deep into the MERN stack, exploring new technologies, and honing my backend and frontend development skills.<br><br>🎯 Goals: To build robust and user-friendly applications, contribute to open-source projects, and eventually lead a team of developers in creating innovative solutions.<br><br>🎲 Fun fact: I once spent an entire day debugging a code issue, only to find out that a semicolon was missing! It's all part of the learning process, right?</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafeezmangalore" alt="hafeezmangalore" /></a> </p>
+
 
 - 🔭 I’m currently working on **My B.Tech Final Year Project**
 
