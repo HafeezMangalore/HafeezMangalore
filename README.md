@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm ABDUL HAFEEZ</h1>
 <h3 align="center">A passionate FULL Stack developer from India</h3>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafeezmangalore&label=Profile%20views&color=0e75b6&style=flat" alt="hafeezmangalore" /> </p>
 <h2 align="left">About me</h2>
 
 ###
 
 <p align="left">✨ Creating bugs since 2020: Ever since I started coding, I've been on a journey of trial and error, learning from every mistake and improving my skills along the way.<br><br>📚 I'm currently learning Full Stack Development: Diving deep into the MERN stack, exploring new technologies, and honing my backend and frontend development skills.<br><br>🎯 Goals: To build robust and user-friendly applications, contribute to open-source projects, and eventually lead a team of developers in creating innovative solutions.<br><br>🎲 Fun fact: I once spent an entire day debugging a code issue, only to find out that a semicolon was missing! It's all part of the learning process, right?</p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafeezmangalore&label=Profile%20views&color=0e75b6&style=flat" alt="hafeezmangalore" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafeezmangalore" alt="hafeezmangalore" /></a> </p>
 
@@ -98,7 +99,7 @@
 </div>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hafeez220250"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hafeez220250" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/hafeez220250"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hafeez220250" /></a></p><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafeezmangalore&show_icons=true&locale=en&layout=compact" alt="hafeezmangalore" /></p>
 
